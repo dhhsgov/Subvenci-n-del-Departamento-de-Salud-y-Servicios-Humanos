@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images.png" width="250">
+</p>
+
 # DEPARTAMENTO DE SALUD Y SERVICIOS HUMANOS DE EE. UU. (HHS)
 
 ## Misión y Visión
